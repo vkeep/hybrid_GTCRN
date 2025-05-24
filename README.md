@@ -9,7 +9,7 @@ This repository is the official implementation of the Interspeech2025 paper: A L
 # Audio samples
 The directory structure of the audio samples is shown below:
 ```markdown
-    Audio_samples
+    samples
     ├── Samples1
     |   ├── Samples1_clean.wav
     |   ├── Samples1_noisy.wav
