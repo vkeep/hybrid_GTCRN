@@ -25,7 +25,7 @@ The directory structure of the audio samples is shown below:
         ├── Samples3_GTCRN.wav
         ├── Samples3_DC_GTCRN.wav
         └── Samples3_Proposed.wav
-
+```
 
 # Credits
 We gratefully acknowledge the following resources that made this project possible:
