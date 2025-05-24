@@ -17,13 +17,7 @@ The directory structure of the audio samples is shown below:
     |   ├── Samples1_GTCRN.wav
     |   ├── Samples1_DC_GTCRN.wav
     |   └── Samples1_Proposed.wav
-    ├── Samples2
-    |   ├── Samples2_clean.wav
-    |   ├── Samples2_noisy.wav
-    |   ├── Samples2_IVA.wav
-    |   ├── Samples2_GTCRN.wav
-    |   ├── Samples2_DC_GTCRN.wav
-    |   └── Samples2_Proposed.wav
+    | ...
     └── Samples3
         ├── Samples3_clean.wav
         ├── Samples3_noisy.wav
@@ -31,6 +25,7 @@ The directory structure of the audio samples is shown below:
         ├── Samples3_GTCRN.wav
         ├── Samples3_DC_GTCRN.wav
         └── Samples3_Proposed.wav
+
 
 # Credits
 We gratefully acknowledge the following resources that made this project possible:
