@@ -1,10 +1,36 @@
 # H-GTCRN
 This repository is the official implementation of the Interspeech2025 paper: A Lightweight Hybrid Dual Channel Speech Enhancement System under Low-SNR Conditions.
->Audio samples and preprint paper are coming soon.
+>Preprint paper is coming soon.
 
 | ![The framework of our proposed system.](./figures/model.png) |
 |:---------------------:|
 | **Figure 1:** The framework of our proposed system. |
+
+# Audio samples
+The directory structure of the audio samples is shown below:
+```markdown
+    Audio_samples
+    ├── Samples1
+    |   ├── Samples1_clean.wav
+    |   ├── Samples1_noisy.wav
+    |   ├── Samples1_IVA.wav
+    |   ├── Samples1_GTCRN.wav
+    |   ├── Samples1_DC_GTCRN.wav
+    |   └── Samples1_Proposed.wav
+    ├── Samples2
+    |   ├── Samples2_clean.wav
+    |   ├── Samples2_noisy.wav
+    |   ├── Samples2_IVA.wav
+    |   ├── Samples2_GTCRN.wav
+    |   ├── Samples2_DC_GTCRN.wav
+    |   └── Samples2_Proposed.wav
+    └── Samples3
+        ├── Samples3_clean.wav
+        ├── Samples3_noisy.wav
+        ├── Samples3_IVA.wav
+        ├── Samples3_GTCRN.wav
+        ├── Samples3_DC_GTCRN.wav
+        └── Samples3_Proposed.wav
 
 # Credits
 We gratefully acknowledge the following resources that made this project possible:
