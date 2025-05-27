@@ -1,5 +1,5 @@
 # H-GTCRN
-This repository is the official implementation of the Interspeech2025 paper: A Lightweight Hybrid Dual Channel Speech Enhancement System under Low-SNR Conditions. [arXiv preprint](https://arxiv.org/abs/2505.19597)
+This repository is the official implementation of the Interspeech2025 paper: A Lightweight Hybrid Dual Channel Speech Enhancement System under Low-SNR Conditions. For more details, please refer to the [arXiv preprint](https://arxiv.org/abs/2505.19597).
 
 | ![The framework of our proposed system.](./figures/model.png) |
 |:---------------------:|
